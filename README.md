@@ -72,9 +72,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # Drag-and-Drop-Taskapp
 
 Install this libraies using this commands
-
-yarn add @atlaskit/css-reset
-yarn add react-beautiful-dnd
-yarn add styled-components
-
-
+`yarn add @atlaskit/css-reset`
+`yarn add react-beautiful-dnd`
+`yarn add styled-components`
