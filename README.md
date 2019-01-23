@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Project is made using library named react-beautiful-dnd
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -67,3 +70,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # Drag-and-Drop-Taskapp
+
+Install this libraies using this commands:
+
+yarn add @atlaskit/css-reset
+yarn add react-beautiful-dnd
+yarn add styled-components
+
+
