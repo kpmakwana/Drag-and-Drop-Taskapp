@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dragDropTaskApp/precache-manifest.57c7c8cac804eb113847de826c5b43cd.js"
+  "/Drag-Drop-Taskapp/precache-manifest.e2bec98903a89e64baedd4a75e02ca2e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/dragDropTaskApp/index.html", {
+workbox.routing.registerNavigationRoute("/Drag-Drop-Taskapp/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

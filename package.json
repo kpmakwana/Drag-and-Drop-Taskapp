@@ -2,7 +2,7 @@
   "name": "drag-drop-taskapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kpmakwana.github.io/dragDropTaskApp",
+  "homepage": "http://kpmakwana.github.io/Drag-Drop-Taskapp",
   "dependencies": {
     "@atlaskit/css-reset": "^3.0.5",
     "react": "^16.7.0",
