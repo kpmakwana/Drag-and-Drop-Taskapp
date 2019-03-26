@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import Task from './task';
 import {Droppable} from 'react-beautiful-dnd';
 const Container = styled.div`
-margin: 8px;
+margin: 16px;
 width: 300px;
 border: 1px solid skyblue;
 border-radius: 2px;
