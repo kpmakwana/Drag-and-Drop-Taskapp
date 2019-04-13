@@ -69,7 +69,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# Drag-and-Drop-Taskapp
 
 # How to run?
 
@@ -80,5 +79,4 @@ To instal all dependencies simpaly run
 
 After that run `npm run` command that will start local host on your machine and run this project on that local server 
 
-
-# Live demo can be found here : https://kpmakwana.github.io/Drag-Drop-Taskapp/
+Live demo can be found here : https://kpmakwana.github.io/Drag-Drop-Taskapp/
