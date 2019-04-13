@@ -71,7 +71,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # Drag-and-Drop-Taskapp
 
-Install this libraies using this commands
-`yarn add @atlaskit/css-reset`
-`yarn add react-beautiful-dnd`
-`yarn add styled-components`
+# How to run?
+
+install node on your machine if not already installed
+
+To instal all dependencies simpaly run
+`npm install`
+
+After that run `npm run` command that will start local host on your machine and run this project on that local server 
+
+
+# Live demo can be found here : https://kpmakwana.github.io/Drag-Drop-Taskapp/
